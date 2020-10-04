@@ -5,4 +5,4 @@ The 2D-Ising Model for a ferromagnet describes the system as a grid of spins in 
 
 The aim of the following code is to train a neural network in order to be able to sample from the thermal equilibrium distribution of the Ising System using a Generative Adversarial Network (GAN).   
 
-The full code can be found in the Jupyter Notebook "Exam_Code" while the folder "Ising_samples" contains the dataset.
+The full code can be found in the Jupyter Notebook "Exam_Code" while the folder "Ising_exam" contains the dataset.
