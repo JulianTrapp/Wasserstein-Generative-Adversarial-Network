@@ -1,0 +1,2 @@
+# Wasserstein-Generative-Adversarial-Network
+In this Machine Learning Exam I created two types of Generative Adversarial Networks (GANs) with different loss functions. The aim of the two networks is to train the generator network to generate samples from a given probability distribution in a way that the discriminator cannot distinguish it from real samples. In this example I worked with data from a 2D Ising Model which is one of the most successful and broadly applicable models in statistical physics.  
